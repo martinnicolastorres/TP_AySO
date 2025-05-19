@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD Ryzen 7 2700X Eight-Core Processor
